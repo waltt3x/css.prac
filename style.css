@@ -3,6 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body .content .sidebar {
+    color: blue;
+}
+
 a {
     text-decoration: red;
     color: red;
