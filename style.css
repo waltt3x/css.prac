@@ -14,26 +14,24 @@ h1, h2, h3 {
 
 #container {
     background-color: white;
-    width: 900px;
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #header {
-    background-color: #56af36;
-    color: black;
+    background-color: #66CCFF;
+    color: white;
     text-align: center;
     padding: 10px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #content {
     padding: 10px;
-    background-color: #c6c6b0;
 }
 
 #nav {
-    width: 180px;
+    width: 600px;
     float: left;
 }
 
@@ -57,10 +55,4 @@ h1, h2, h3 {
     background-color: #999999;
     color: white;
     text-align: right;
-}
-
-.selected {
-    text-decoration: underline;
-    text-decoration-color: black;
-    padding: 5px;
 }
