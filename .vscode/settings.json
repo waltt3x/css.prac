@@ -1,4 +1,7 @@
 {
     "gitdoc.enabled": true,
-    "editor.colorDecoratorsActivatedOn": "clickAndHover"
+    "editor.colorDecoratorsActivatedOn": "clickAndHover",
+    "editor.tokenColorCustomizations": {
+        
+    }
 }
