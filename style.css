@@ -4,8 +4,8 @@ body {
 }
 
 a {
-    text-decoration: red;
     color: red;
+    text-decoration-underline: black;
 }
 
 h1, h2, h3 {
